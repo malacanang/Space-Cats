@@ -1,3 +1,9 @@
+Final Project for Object Oriented Programming (CSE 100) written in C++ using MS Visual Studio.
+
+
+
+
+
 FREEGLUTAPP
 -----------
 
